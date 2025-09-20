@@ -4,6 +4,5 @@ torch
 torchvision
 numpy
 pydantic
-PIL
 scikit-learn
 pillow
